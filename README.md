@@ -1,0 +1,33 @@
+# Gamified User Dashboard
+
+A gamified React-based dashboard with Firebase backend, built to encourage daily engagement via XP, streaks, mood check-ins, and social features.
+
+## 🚀 Features
+-  Firebase Authentication (email/password)
+-  Mood Check-In (with daily XP + streak system)
+-  XP and Level Tracking
+-  User Notes with Timestamp
+-  Daily Reward (once per day XP bonus)
+-  Leaderboard (rank users by XP)
+-  Dark Mode Support
+-  Form validation + Toast notifications
+-  Loading indicators
+-  Added the Avatar
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js + Tailwind CSS
+- **Backend:** Firebase Auth, Firestore
+- **Data:** Firestore (users, moods, rewards, friends)
+
+---
+
+
+## 📦 Installation & Setup
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/gamified-dashboard.git
+   cd gamified-dashboard
